@@ -113,7 +113,7 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 .profile-info-con h3{
-    padding-top: 1.8rem;
+    padding-top: 2rem;
 }
 
 .profile-info-con h3 .name {
@@ -122,7 +122,7 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 .profile-info-con h3 .age,
-.profile-info-con h5 {
+.profile-info-con h4 {
     color: var(--dark-grayish-blue);
     font-weight: var(--fw-400);
 }
