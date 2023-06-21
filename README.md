@@ -26,7 +26,7 @@ Mobile Preview
 
 ![Solution preview for the QR code component coding challenge](./assets/screenshot/Profile-Mobile.png)
 ### Links
-- Live Site URL:[ monashperera-qr-solution](https://monashperera-qr-frontendmentor.netlify.app/)
+- Live Site URL:[ monashperera-profile-card](https://monashperera-profile-card.netlify.app/)
 
 ### Built with
 
