@@ -17,7 +17,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-
 Desktop Preview
 
 ![Solution preview for the QR code component Desktop](./assets/screenshot/Profile-desktop.png)
@@ -25,6 +24,7 @@ Desktop Preview
 Mobile Preview
 
 ![Solution preview for the QR code component coding challenge](./assets/screenshot/Profile-Mobile.png)
+
 ### Links
 - Live Site URL:[ monashperera-profile-card](https://monashperera-profile-card.netlify.app/)
 
